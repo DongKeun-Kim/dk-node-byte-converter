@@ -1,2 +1,2 @@
 # dk-node-byte-converter
-node-packet source
+byte to object for node.js
