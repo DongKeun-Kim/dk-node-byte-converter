@@ -1,0 +1,5 @@
+{
+  "name": "dk-node-byte-converter",
+  "main": "lib/token.js",
+  "dependencies": {}
+}
